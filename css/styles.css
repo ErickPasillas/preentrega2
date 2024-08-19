@@ -1,14 +1,5 @@
 
 
-.carruselimagenes{
-    width: 30vh;
-    height: 20vh;
-}
-.gato{
-    width: 30dvh;
-    height: 20dvh;
-    display: flex;
-}
 body{
     display: grid;
     min-height: 100vh;
