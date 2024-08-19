@@ -1,0 +1,65 @@
+
+
+.carruselimagenes{
+    width: 30vh;
+    height: 20vh;
+}
+.gato{
+    width: 30dvh;
+    height: 20dvh;
+    display: flex;
+}
+body{
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.textocontenedor{
+    text-align: start;
+    padding-top: 3rem;
+    margin-left: 25px;
+    font-family: "Open Sans", sans-serif;
+}
+.piedepagina{
+    background-color: rgb(255, 192, 203);
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.titulos{
+    font-size: 30px;
+}
+
+.gatoimagen{
+    width: 30dvh;
+    height: 30dvh;
+    border-radius: 25px;
+    object-fit: cover;
+    padding-bottom: 15px;
+}
+
+.fundador{
+    display: flex;
+    justify-content: center;
+ max-width: 500px; 
+ margin: 15px
+ 
+}
+.presentacioncesar{
+    margin: 150px auto;
+    width: 70%;
+}
+.titulo2{
+    font-size: 25px;
+    margin-top: -120px;   
+}
+.formatocesar{
+    font-size: 18px;
+    margin-top: -10px;
+
+}
+
